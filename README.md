@@ -10,4 +10,4 @@ This repository includes:
 
 _Note: the website is not included in this collection of files related to CU Grade Guide_
 
-__This was created in 12 hours at the Hello World Freshman Hackathon (10/13/18) hosted by Clemson University's "CU Hack It"__
+__This was created at the 12 hour Hello World Freshman Hackathon (10/13/18) hosted by Clemson University's "CU Hack It"__
